@@ -1,1 +1,1 @@
-start pythonw.exe C:\Users\Here-Put-You-Like-User\Desktop\monitor_surface_temp.py
+start pythonw.exe C:\Users\ENTER-YOU-USER-HERE\ENTER-REST-ADDRESS-HERE\monitor_surface_temp.py
